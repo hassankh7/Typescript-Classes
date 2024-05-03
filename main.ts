@@ -1,5 +1,8 @@
+// Data Types Class 3
 
-let str1: string="This Is String"
-str1 = "This Is Also A String"
-console.log(str1)
+let myName: string="Hassan Khan"
+let myAge: number= 20
+let mybool: boolean=true
 
+console.log(myName,myAge,mybool);
+console.log(myName.toLocaleUpperCase());
